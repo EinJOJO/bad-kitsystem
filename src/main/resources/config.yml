@@ -1,0 +1,33 @@
+messages:
+  prefix: "&eKaktussucht :"
+  no_perms: "%prefix% &cDazu hast du keine Berechtigung"
+  time_limit: "%prefix% &cDu kannst deinen Kit in 30 Minuten abholen."
+  kit_limit: "%prefix% &cDu kannst das Kit nur einmal haben"
+  kit_receive: "%prefix% &cDu hast dein Kit erhalten"
+kit:
+  helmet:
+    enabled: true
+    name: "&6Helm"
+    lore:
+      - "&7"
+      - "&7dw"
+  chest:
+    enabled: true
+    name: "&6Chestplate"
+    lore:
+      - "&7dwa"
+  legs:
+    enabled: true
+    name: "&7de"
+    lore:
+      - "&7dwuh"
+  boots:
+    enabled: true
+    name: "&8dwko"
+    lore:
+      - "&9efji"
+  items:
+    - "ARROW:5:&0name:&7lore1;&dlore2;&alore3"
+    - "COOKED_BEEF:4"
+    - "BOW:1:&8Bogen:&cKann;&4schießen"
+    - "WOODEN_SWORD:1:&9Schwert"

@@ -1,0 +1,9 @@
+name: Kitsystem
+version: '${version}'
+main: de.einjojo.kitsystem.KitSystem
+api-version: 1.18
+authors: [ EinJOJO, MrPuffi ]
+description: Give kits on command
+commands:
+  kit:
+    description: Kit
